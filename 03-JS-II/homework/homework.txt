@@ -1,0 +1,10 @@
+Homework: Javascript II
+
+1.
+
+for:		'for' es un comando de bucle que se utiliza para evitar la repetición de código. Se utiliza para repetir el mismo código en bucle hasta que llegue a un valor deseado o se repita una cantidad definida de veces. Se compone por: una variable que nosotros declaramos dentro del statement + una condición + un incremento de la variable.
+
+&&, ||, !:	Son operadores lógicos que se utilizan para definir si una o varias expresiones son verdaderas o falsas. 
+		'&&' significa 'y' y determina 'true' si todas las expresiones que se unen con el operador son verdaderas; si solo una de las expresiones es falsa, devuelve 'false'.
+		'||' significa 'o' y determina 'true' si una o todas las expresiones que compone es verdadera. Devuelve 'false' si todas son falsas.
+		Y por último el operador '!' se conoce como 'not' o 'no' y devuelve el valor contrario al escrito. Por ejemplo: !true -> false   ó   !(1 === 1) -> false. En el primer ejemplo modifica el 'true' como NOTtrue, por lo tanto 'false'; y en el segundo, agrega una negación a la expresión de 1 es igual 1, por lo tanto es 'false'.
