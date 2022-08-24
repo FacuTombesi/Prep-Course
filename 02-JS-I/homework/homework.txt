@@ -1,0 +1,13 @@
+Homework: Introducción a Javascrypt
+
+1.
+
+Variables: 				Una variable es una forma de guardar alguna palabra o concepto en la memoria de la computadora para ser usada más tarde. Por ejemplo, podemos definir que para la palabra perro aparezca el nombre "Loki", así cada vez que nos refiramos al perro aparecerá el nombre que le dimos. Las variables se pueden definir con las palabras clave 'var', 'let' o 'const'.
+
+Strings: 				Una string o cadena es todo bloque de texto que siempre va escrito entre comillas.
+
+Funciones (argumentos, 'return'): 	Las funciones son una forma de calcular, modificar y lograr hacer algo con las variables. Se escriben con la palabra clave 'function' + el nombre que le queremos dar a la función seguido de de paréntesis () + corchetes {} dentro de los que irá el código de los que queremos hacer con la función. Dentro de los paréntesis () que se ubican seguidos del nombre de nuestra función se colocan los argumentos (uno o más de uno separados por una coma) que se van a utilizar con el código que pongamos dentro de los corchetes {}. Dentro del código que va dentro de los corchetes podemos ubicar el comando 'return' que lo que hace es poner un final a la lectura del código y respondernos algo.
+
+Declaraciones 'if':			Las declaraciones 'if' son una condición que se le da al código y nos responde con 'true' o 'false' dependiendo si la condición que le dimos sea verdadera o falsa. Estas se escriben con la palabra clave 'if' + la condición que le queremos dar escrita entre paréntesis () + corchetes {} donde ponemos qué queremos que nos responda si la condición es verdadera.
+
+Valores booleanos: ('true', 'false'):	'True' y 'false' son valores que se llaman booleanos y significan verdadero (true) y falso (false). Se usan cuando usamos un condicional com 'if' en una función y nos responden si esa condición es verdadera o es falsa o un mensaje que nosotros le demos para cualquiera de los dos casos.
