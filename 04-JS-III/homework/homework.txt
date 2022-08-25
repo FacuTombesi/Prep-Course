@@ -1,0 +1,8 @@
+Homework: Javascript III
+
+1.
+
+Arrays:		Los 'arrays' o arreglos son listas de elementos que pueden ser cualquier tipo (strings, números, null, undefined, function(), array[]) y se escriben entre brackets []. 
+		Los elementos dentro de un array se enumeran comenzando por el 0 y se puede consultar cada elemento de un array usando el comando 'array[número de orden]', así como también se puede consultar la cantidad de elementos dentro de un array usando el comando 'array.length'.
+		Para agregar elementos a un array se pueden utilizar los comandos 'array.unshift' y 'array.push'. Unshift agrega un elemento el comienzo del array, es decir, en el orden 0. Por otro lado, push agrega un elemento al final.
+		Caso contrario, el comando 'array.pop' devuelve y quita el último elemento del array y se puede usar en sucesión hasta que el array se quede sin elementos.
