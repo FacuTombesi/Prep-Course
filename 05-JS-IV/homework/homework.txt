@@ -1,0 +1,13 @@
+Homework: Javascript IV
+
+1.
+
+Objetos:					Los objetos con conjuntos de propiedades asignadas para ese objeto específico. Se escriben entre llaves {} y sus propiedades cuentan con un nombre o clave para la propiedad, seguido de dos puentos ":" y un valor. 
+
+Propiedades:					Las propiedades se escriben en forma de lista separadas por una coma "," y constan de una palabra clave y un valor que puede ser un string, un número o una función.
+
+Métodos:					Los métodos son las funciones guardadas en las propiedades de un objeto a las que se les asigna también un nombre o clave. Los métodos pueden ser usados de la misma forma que las funciones.
+
+Bucle for…in:					Es un tipo de bucle 'fot' que se utiliza para realizar bucles donde no queramos índices numéricos, sino que es para objetos. Se escribe igual al comienzo declarando una variable pero luego continúa con la palabra clave 'in' y el nombre del objeto donde queremos realizar el bucle, el cual finaliza una vez que haya devuelto todas las propiedades del objeto.
+
+Notación de puntos vs notación de corchetes:	Notación de puntos (o dot notation) y de corchetes (o bracket notation) son dos formas de ver las propiedades de un objeto. Dot notation es más fácil de escribir ya que solo se utiliza un punto sin brackets ni comillas, sin embargo, el dot notation es literal, es decir, busca lo que se le indica en el objeto; por otro lado, bracket notation busca variables fuera del objeto para encontrar la propiedad solicitada.
