@@ -1,0 +1,7 @@
+Homework: Javascript V
+
+1.
+
+prototype:			El prototype es una forma de ahorrar memoria de la computadora creando nuevos objetos usando la palabra clave "this" que siempre se referirá a la palabra que este a la izquierda de prototype que lo estará llamando. Se escribe separando la primera palabra por un punto, seguido de prototype y otro punto que separa a la última palabra que hace referencia al nuevo objeto o función que se le agregara a la primera.
+
+Constructor (de Clases):	Constructor es una función que se utiliza para crear clases. Estas funciones por si solas no retornan nada. Todos los contructores de clases se escriben empezando con una letra mayúscula por convención. En los constructores se detallan la lista de propiedades y se usa el keyword "this".
