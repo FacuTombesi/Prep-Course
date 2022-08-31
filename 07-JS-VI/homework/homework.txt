@@ -1,0 +1,5 @@
+Homework: Javascript VI
+
+1.
+
+Funciones Callback:	Las funciones "callback" son las funciones que pueden ser usadas como argumento de otra función. Se usa "cb" por convención para referirse a estas funciones y pueden ser llamadas en cualquier momento así como pasar argumentos dentro de la función. Estas funciones siempre devuelven algo.
